@@ -1,2 +1,1 @@
-# java-environment-settings
-Java开发环境配置
+# Java开发环境配置
